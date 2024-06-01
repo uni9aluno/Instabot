@@ -1,5 +1,8 @@
 # Bem-vindo ao InstaBot: O Mestre das Palavras para suas Publicações no Instagram 📝✨
 
+![Instabot](https://github.com/uni9aluno/Instabot/assets/136655304/b198d7a9-1115-4795-b146-8fa2ed2149fa)
+
+
 No mundo agitado das redes sociais, contar com textos que cativam é crucial. Apresentamos o InstaBot, seu assistente pessoal de copywriting para arrasar no Instagram! Este não é apenas mais um chatbot; é uma ferramenta criativa que transforma suas ideias em palavras que brilham.
 
 ## 🤖 O que faz o InstaBot?
