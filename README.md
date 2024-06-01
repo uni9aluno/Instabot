@@ -24,6 +24,7 @@ O InstaBot nasceu da necessidade de simplificar o processo de criação de copy 
 
 ## 🌟 Veja em Ação:
 
-![demo](https://github.com/uni9aluno/lab-natty-or-not/assets/136655304/509d426f-978f-4af4-9ed8-b2ff00f15ed2)
+![image](https://github.com/uni9aluno/Instabot/assets/136655304/cc483819-f9e2-4c51-84dc-89c0b6e9ab47)
+
 
 Prepare-se para transformar suas publicações no Instagram em verdadeiras obras-primas de persuasão com o InstaBot ao seu lado!
